@@ -1,0 +1,21 @@
+{
+  "name": "hisabkitab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "css": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xyzone/HisabKitab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xyzone/HisabKitab/issues"
+  },
+  "homepage": "https://github.com/0xyzone/HisabKitab#readme"
+}
